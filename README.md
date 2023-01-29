@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo Solution](https://github.com/saketbyte/product-preview-card-component-main)
+- Live Site URL: [Live Site](https://63d6ca145e458b7faae3f144--singular-rugelach-300383.netlify.app/)
 
 
 
