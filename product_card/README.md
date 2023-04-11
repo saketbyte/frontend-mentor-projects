@@ -15,14 +15,16 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot-desktop](./Screenshot.png)
-<br>
-![Screenshot-mobile(./Screenshot1.png)
+
+
+
+![Screenshot-mobile](./Screenshot1.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo Solution](https://github.com/saketbyte/product-preview-card-component-main)
+- Live Site URL: [Live Site](https://63d6ca145e458b7faae3f144--singular-rugelach-300383.netlify.app/)
 
 
 
@@ -33,7 +35,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -47,16 +48,13 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@saketbyte](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@saketbyte](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@saketbyte](https://www.frontendmentor.io/profile/saketbyte)
+- Twitter - [@saketbyte](https://www.twitter.com/saketbyte)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-I took great help from Kevin Powell's youtube channe as this was my very first challenge and I was clueless where to start.
+I took great help from [Kevin Powell's youtube channel](https://www.youtube.com/@KevinPowell) as this was my very first challenge and I was clueless where to start.
 
 
 His videos helped me give structure on approaching these challenges.
