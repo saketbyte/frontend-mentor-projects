@@ -41,4 +41,5 @@ Contributors names and contact info
 
 @saketbyte
 
-Twitter: @saketbyte
+Twitter: [@saketbyte](https://twitter.com/saketbyte?lang=en)
+Email: samriddhsingh00@gmail.com
