@@ -89,6 +89,7 @@ c)	Absolute: Position an element based on its closest positioned ancestor positi
     bottom: -24px;
     right: 0;
     color: hsl(0, 100%, 74%);
+    opacity: 0;
 
 }
 
@@ -101,6 +102,9 @@ c)	Absolute: Position an element based on its closest positioned ancestor positi
     color: hsl(0, 100%, 74%);
 }
 
+.form-control.error small {
+    opacity: 1;
+}
 
 .form-control img {
     opacity: 0;
@@ -176,6 +180,14 @@ small a {
     text-decoration: none;
 }
 
+.sr-only {
+    position: absolute;
+    left: -1000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
 
 @media screen and (max-width: 768px) {
     h1 {
