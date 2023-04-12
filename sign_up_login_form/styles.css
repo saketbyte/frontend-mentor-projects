@@ -2,28 +2,39 @@
 
 * {
     box-sizing: border-box;
+    /* The box-sizing property allows us to include the padding and border in an element's total width and height */
 }
 
 body {
     background-color: hsl(0, 100%, 74%);
     background-image: url("images/bg-intro-desktop.png");
+    /* Remember url() */
     font-family: "Poppins", sans-serif;
     color: white;
+    /* Text Colour */
 
 }
 
 .container {
     display: flex;
+    /* Flex is the value of css display . By using display flex in parent element, child elements automatically align like column or row with auto width and auto height. */
     flex-wrap: wrap;
+    /* The flex-wrap CSS property sets whether flex items are forced onto one line or can wrap onto multiple lines. */
     max-width: 1200px;
     margin: 0 auto;
     align-items: center;
+    /* Items within the container would be centered in align-items */
     justify-content: center;
+    /* The container would be centered. */
+    /* Check here:https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox#:~:text=You%20can%20see%20in%20the%20live%20example%20below%20how%20this%20looks.%20Try%20editing%20the%20items%20or%20adding%20additional%20items%20in%20order%20to%20test%20the%20initial%20behavior%20of%20flexbox. */
     min-height: 100vh;
 }
 
 .container>div {
     flex: 1;
+    /* Equivalent to flex: <positive-number> 1 0. Makes the flex item flexible and sets the flex basis to zero, resulting in an item that receives the specified proportion of the free space in the flex container. If all items in the flex container use this pattern, their sizes will be proportional to the specified flex facto 
+    
+    USE:  If an element has flex: 1, it signifies that the width of all other elements will be the same as their content, but the element with flex: 1 will be given the remaining full space */
     padding: 0 20px;
 
 }
@@ -31,6 +42,7 @@ body {
 h1 {
     font-size: 40px;
     line-height: 50px;
+    /*  the vertical distance between two lines of type, measured from the baseline of one line of type to the baseline of the next. */
 }
 
 
@@ -44,6 +56,7 @@ p {
     background-color: white;
     padding: 30px;
     border-radius: 10px;
+    /* The roundness of corners. */
     box-shadow: 0 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 20px;
     text-align: center;
@@ -60,6 +73,12 @@ p {
 
 .form-control {
     position: relative;
+    /* See in notes, absolute vs relative
+  
+a)	Static: By default, position an element based on its current position in the flow. The top, right, bottom, left and z-index properties do not apply.
+b)	Relative: We change the position of the element with respect to the position it is supposed to have if not explicitly set without changing layout.
+c)	Absolute: Position an element based on its closest positioned ancestor position ie with respect to the parent
+ */
     margin-bottom: 30px;
 
 }
