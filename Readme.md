@@ -6,6 +6,8 @@ Check the websites here:
    
 2. [Sign up Login form](https://effervescent-horse-365e6d.netlify.app/)
 
+3. [Base Apparel coming soon page](https://luminous-kelpie-e670b8.netlify.app/)
+
 
 ## Description
 The repository contains all the projects I have made from ![Frontend Mentor](www.frontendmentor.to) website to practise designing in html css and js and some react as well. Basically different components which I can later apply to different projects anywhere.
