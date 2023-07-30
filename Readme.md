@@ -2,11 +2,13 @@
 
 Check the websites here:
 
-1. [Product Card](https://profound-manatee-264957.netlify.app/)
+1. [Interactive Rating Component Card](https://rating-component--sprightly-lollipop-e4aae3.netlify.app/)
    
 2. [Sign up Login form](https://effervescent-horse-365e6d.netlify.app/)
 
 3. [Base Apparel coming soon page](https://luminous-kelpie-e670b8.netlify.app/)
+
+4. [Product Card](https://profound-manatee-264957.netlify.app/)
 
 
 ## Description
