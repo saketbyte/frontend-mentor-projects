@@ -8,7 +8,9 @@ Check the websites here:
 
 3. [Base Apparel coming soon page](https://luminous-kelpie-e670b8.netlify.app/)
 
-4. [Product Card](https://profound-manatee-264957.netlify.app/)
+4. [QR Code component](https://earnest-khapse-daa13f.netlify.app)
+
+5. [Product Card](https://profound-manatee-264957.netlify.app/)
 
 
 ## Description
